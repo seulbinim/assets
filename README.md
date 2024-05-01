@@ -13,23 +13,23 @@ npm install --global degit
 **degit** 으로 figma 폴더를 src 폴더의 하위 폴더로 복사하기
 
 ```sh
-degit seulbinim/basic-ui-assets/figma src/figma
+degit seulbinim/assets/figma src/figma
 ```
 
 **degit** 으로 images 폴더를 src 폴더의 하위 폴더로 복사하기
 
 ```sh
-degit seulbinim/basic-ui-assets/images src/images
+degit seulbinim/assets/images src/images
 ```
 
 **degit** 으로 js 폴더를 src 폴더의 하위 폴더로 복사하기
 
 ```sh
-degit seulbinim/basic-ui-assets/js src/js
+degit seulbinim/assets/js src/js
 ```
 
 **degit** 으로 font 폴더를 src 폴더의 하위 폴더로 복사하기
 
 ```sh
-degit seulbinim/basic-ui-assets/font src/font
+degit seulbinim/assets/font src/font
 ```
