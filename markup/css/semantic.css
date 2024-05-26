@@ -1,0 +1,58 @@
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+body {
+  background-color: #121212;
+  color: #fff;
+  font-family: "SUIT Variable", sans-serif;
+  margin: 0 2em;
+}
+
+ul {
+  margin: 0;
+  padding-left: 0;
+  list-style: none;
+}
+
+h1,
+.headline {
+  font-size: 2em;
+  font-weight: 700;
+  margin: 1em 0;
+}
+
+h2,
+.sub-headline {
+  font-size: 1.5em;
+  font-weight: 600;
+  margin: 1em 0;
+}
+
+p,
+.description,
+.sub-description {
+  font-weight: 300;
+  margin: 1em 0;
+}
+
+ul,
+.list {
+  margin-left: 2em;
+  font-weight: 100;
+  margin: 1em 0;
+}
+
+strong,
+.list-word {
+  font-weight: 600;
+  display: inline-block;
+  width: 5em;
+}
